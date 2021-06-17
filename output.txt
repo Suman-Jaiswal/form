@@ -1,0 +1,91 @@
+The name of the client is Suman, 20 years old , male , residing at Bihar, India.name: Suman Jaiswal, age: 20, gender: male 
+, address: swdedef.name: Suman Jaiswal,
+ age: 20,
+ gender: male,
+ address: swdedef.
+name: Suman Jaiswal,
+ age: 20,
+ gender: male,
+ address: swdedef.
+name: Suman Jaiswal,
+ age: 20,
+ gender: male,
+ address: swdedef.
+name: Suman Jaiswal------------------>
+ age: 20
+ gender: male
+ address: india.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+name: SUMAN KUMAR JAISWAL------------------>
+ age: 21
+ gender: M
+ address: Devipatti.
+{name: SUMAN KUMAR JAISWAL------------------>
+ age: 
+ gender: 
+ address: Devipatti.
+}{ 
+ name: SUMAN KUMAR JAISWAL, 
+ age: 20, 
+ gender: M, 
+ address: Devipatti.
+}{ 
+ name: SUMAN KUMAR JAISWAL, 
+ age: 20, 
+ gender: M, 
+ address: Devipatti.
+} 
+
+ { 
+ name: SUMAN KUMAR JAISWAL, 
+ age: 20, 
+ gender: M, 
+ address: Devipatti.
+}
+{ 
+ name: 'SUMAN KUMAR JAISWAL', 
+ age: 20, 
+ gender: 'M', 
+ address: 'Devipatti',
+}
+{ 
+ name: 'SUMAN KUMAR JAISWAL', 
+ age: 20, 
+ gender: 'M', 
+ address: 'Devipatti',
+}
